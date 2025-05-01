@@ -9,7 +9,7 @@ public class week2 {
 
     // Store a set of same type of values > array
     LocalDate[] dates = new LocalDate[3];
-    BigDecmial[] numbers = new BigDecmial[4];
+    BigDecimal[] numbers = new BigDecimal[4];
 
     // Wrapper Class
     // Integer, Short, Long, Byte
